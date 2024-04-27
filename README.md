@@ -8,7 +8,7 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO  TRANSVISION 14/03/2024
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO  TRANSVISION 28/04/2024
 https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
 
@@ -286,12 +286,24 @@ https://www.googleapis.com/drive/v3/files/1WgGFD0X79TGhisAoYZ6w7A1LwqIBqrlW?alt=
 
 
 
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uB76Ft0.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="HBO PREMIUM",Cinemax Transvision
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO PREMIUM",Cinemax TRANSVISION
+https://cdnjkt4.transvision.co.id:1003/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO PREMIUM", Cinemax (MAX)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/cine/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
 
 
 
@@ -304,14 +316,24 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 
 =================================================================================== HBO =================================================================================================
 
-
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO PREMIUM",HBO HD Transvision ex
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="HBO PREMIUM",HBO HD TRANSVISION
+https://cdnjkt4.transvision.co.id:1003/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+ 
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png?download=true" group-title="HBO PREMIUM",HBO HD (MAX)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+
 
 
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO HD 1
@@ -329,20 +351,27 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 ===================================================================== HBO HITS =====================================================================================================
 
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png?download=true" group-title="HBO PREMIUM",HBO Hits (MAX)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 
-
-
- 
-
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="HBO PREMIUM",HBO Hits TRANSVISION
+https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="HBO PREMIUM",HBO Hits Transvision
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
 
 
 
@@ -367,13 +396,22 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
 
  
  
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO PREMIUM",HBO Family Transvision
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png" group-title="HBO PREMIUM",HBO Family TRANSVISION
+https://cdnjkt4.transvision.co.id:1003/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
  
- 
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png?download=true" group-title="HBO PREMIUM",HBO Family (MAX)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
  
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png", HBO FAMILY 1
 http://iptvtree.net:8080/c4596f70/c3848d92/197055
@@ -393,14 +431,21 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 
 
 
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO PREMIUM",HBO Signature Tranvision
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png" group-title="HBO PREMIUM",HBO Signature TRANSVISION
+https://cdnjkt4.transvision.co.id:1003/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png?download=true" group-title="HBO PREMIUM",HBO Signature (MAX)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115", HBO SIGNATURE 1
