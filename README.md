@@ -43,7 +43,20 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO GROUP",Cinemax (Sg)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-
+#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO 2
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
+#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO FAMILY
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
+#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO MUNDI
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
+#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO PLUS
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
+#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO POP
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
+#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO SIGNATURE
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd
+#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO XTREME
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
