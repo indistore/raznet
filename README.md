@@ -58,6 +58,11 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2
 #EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO XTREME
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png" group-title="Malaysia",HBO
+http://iptvtree.net:8080/F14995/a84c0963/157518
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="Malaysia",Hits
+http://iptvtree.net:8080/F14995/a84c0963/157545
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
