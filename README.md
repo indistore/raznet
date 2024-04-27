@@ -22,46 +22,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
  
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO GROUP",HBO (Sg)
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO GROUP",HBO Hits (Sg)
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO GROUP",HBO Family (Sg)
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO GROUP",HBO Signature (Sg)
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO GROUP",Cinemax (Sg)
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO 2
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
-#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO FAMILY
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd
-#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO MUNDI
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd
-#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO PLUS
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
-#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO POP
-https://edge-live12-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd
-#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO SIGNATURE
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd
-#EXTINF:0 tvg-id="ext" group-title="HBO GROUP",HBO XTREME
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png" group-title="Malaysia",HBO
-http://iptvtree.net:8080/F14995/a84c0963/157518
-#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="Malaysia",Hits
-http://iptvtree.net:8080/F14995/a84c0963/157545
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -348,8 +310,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://i.imgur.com/uB76Ft0.png", CINEMAX 1
 http://iptvtree.net:8080/c4596f70/c3848d92/197964
  
-#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://i.imgur.com/uB76Ft0.png", CINEMAX 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+
 
 
 =================================================================================== HBO =================================================================================================
@@ -374,8 +335,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 
 
 
-#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO HD 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+
 
 
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115", HBO HD 2
@@ -416,8 +376,7 @@ https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016d054fbf6
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115", HBO HITS 1
 http://iptvtree.net:8080/c4596f70/c3848d92/196480
 
-#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115", HBO HITS 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+
 
 
 
@@ -456,8 +415,7 @@ http://iptvtree.net:8080/c4596f70/c3848d92/197055
 
 
  
-#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png", HBO FAMILY 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+
  
  
  
@@ -489,8 +447,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115", HBO SIGNATURE 1
 http://iptvtree.net:8080/c4596f70/c3848d92/221948
 
-#EXTINF:-1 group-title="HBO PREMIUM" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115", HBO SIGNATURE 2
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+
 
 
 ===============================MOVIE======================================
