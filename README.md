@@ -21,7 +21,12 @@ https://www.googleapis.com/drive/v3/files/1qJytSOTdfQyDAfKFph1Bwgczq1T4RUIA?alt=
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
  
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/d740c649/a327.png" group-title="PIALA ASIA CUP",Soccer Channel PREMIUM 2
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 
