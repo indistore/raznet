@@ -33,19 +33,19 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",MNC Sports
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="ASIAN CUP QATAR",MNC Sports
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="MNCSports2.Id" tvg-logo="https://cdn.ksa.my.id/mncsports2.png" group-title="Sports",MNC Sports 2
+#EXTINF:0 tvg-id="MNCSports2.Id" tvg-logo="https://cdn.ksa.my.id/mncsports2.png" group-title="ASIAN CUP QATAR",MNC Sports 2
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://cdn.ksa.my.id/mncsports3.png" group-title="Sports",MNC Sports 3
+#EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://cdn.ksa.my.id/mncsports3.png" group-title="ASIAN CUP QATAR",MNC Sports 3
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 
