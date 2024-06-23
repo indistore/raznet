@@ -311,7 +311,7 @@ EXTVLCOPT:http-referrer=https://www.cubmu.com/
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png" group-title="HBO PREMIUM",HBO TRANSVISION
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://103.113.116.150:1234/stream/cubmu/cinemax/master.m3u8?u=apiv2&p=755d331dd7f9396164ac2bad2c7f3dc13c24d74f4f99ef529409386c5594a1da
 ===================================================================== HBO HITS =====================================================================================================
 
 
