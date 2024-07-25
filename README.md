@@ -383,7 +383,17 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO PREMIUM", ID: HBO
+http://iptvtree.net:8080/AmirBilali/76448035/197972
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO PREMIUM", ID: HBO Family
+http://iptvtree.net:8080/AmirBilali/76448035/197055
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO PREMIUM", ID: HBO Hits
+http://iptvtree.net:8080/AmirBilali/76448035/196480
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO PREMIUM", ID: HBO Signature
+http://iptvtree.net:8080/AmirBilali/76448035/221948
 
 ================================================================================== CINEMAX =============================================================================================
 
