@@ -2119,3 +2119,175 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VaDrfKr.png" group-title="Music",XITE
+
+
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png",UK: Sky Cinema Action
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30517&extension=ts&play_token=kprRrgrQxw
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/d5825492e041478c8cad7c4303964212.png",UK: Sky Cinema Hits
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30510&extension=ts&play_token=gaCO3Bi2XP
+ 
+ 
+ 
+ #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png",UK: Sky Cinema Premiere
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30509&extension=ts&play_token=Z7G9GDac7a
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Alter
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Dark Matter TV
+https://amg00434-tricoasttvllc-darkmatter-plex-a0u9r.amagi.tv/playlist/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=JoNYGj1bF5swTq531QQg&channelId=5eea605674085f0040ddc7a6&ads.us_privacy=1---&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.X-Plex-Token=JoNYGj1bF5swTq531QQg&ads.channelId=5eea605674085f0040ddc7a6
+https://dcicealhbcymw.cloudfront.net/strm/link/darkmatter.m3u8
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Horror 24/7
+https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Horror Machine
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Horror TV
+https://horror-tv-local-now.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8 
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Action
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Horror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Suspense
+https://i.mjh.nz/PlutoTV/5f15e281b0b8840007324b55-alt.m3u8 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Cult Films
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Pluto TV Cult Films
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", ScreamBox TV
+https://bloodydisgustingtv-localnow-cinedigm-com.akamaized.net/index.m3u8 
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", The Walking Dead Universe
+https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+ 
+ 
+#EXTINF:-1 group-title="INDISTORE MOVIE" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Watch It Scream
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2257&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Watchit%20Scream%21&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/36/Image/beinbox1-sd-205x150.png",AR: BeIN Box Office 1
+http://xtv.ooo:8080/88876776555/87677666654/222498
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN BOX OFFICE 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63099_&extension=ts
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN BOX OFFICE 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63100_&extension=ts
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN BOX OFFICE 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extension=ts
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE ACTION 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE ACTION 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE PREMIERE
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31492_&extension=ts
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE PREMIER 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33200_&extension=ts
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE STARS
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31493_&extension=ts
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN MOVIE TURK
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31494_&extension=ts
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="-------",BEIN SERIES 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31495_&extension=ts
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU",BEIN OD MOVIE 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010765&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU",BEIN OD MOVIE 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010764&extension=ts&play_token=IGchCGC0kf
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU",BEIN OD MOVIE 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010763&extension=ts&play_token=tSjCZ4Zxce
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU",BEIN OD MOVIE 4
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010762&extension=ts&play_token=5lqUG5WEo9
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU",BEIN OD MOVIE 5
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671288&extension=ts&play_token=jCEvGAnDZw
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871515&extension=ts&play_token=2JcDJrWvCd
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871514&extension=ts&play_token=Xc6efCGP0w
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871513&extension=ts&play_token=KeZU2S6vel
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871512&extension=ts&play_token=KeZU2S6vel
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871511&extension=ts&play_token=KeZU2S6vel
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO KINDER 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871510&extension=ts&play_token=X73EXyBx0G
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871509&extension=ts&play_token=TcDoi1QH3f
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871508&extension=ts&play_token=HiNVcUYcqJ
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871507&extension=ts&play_token=HiNVcUYcqJ
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871506&extension=ts&play_token=HiNVcUYcqJ
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871505&extension=ts&play_token=h8olu9Lhwu
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871504&extension=ts&play_token=h8olu9Lhwu
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871503&extension=ts&play_token=h8olu9Lhwu
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 8
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871502&extension=ts&play_token=h8olu9Lhwu
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 9
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871501&extension=ts&play_token=h8olu9Lhwu
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY GO Film 10
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=871500&extension=ts&play_token=h8olu9Lhwu
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095797&extension=ts&play_token=mD1og1Ksr4
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095796&extension=ts&play_token=uuRqY0Eke1
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095795&extension=ts&play_token=uuRqY0Eke1
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095794&extension=ts&play_token=uuRqY0Eke1
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 6
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095793&extension=ts&play_token=uuRqY0Eke1
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095792&extension=ts&play_token=uuRqY0Eke1
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU",SKY PREMIER 8
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1095791&extension=ts&play_token=uuRqY0Eke1
+ 
+ 
+ 
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU",AMAZON 1
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275543&extension=ts&play_token=gHH5j332YQ
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU",AMAZON 2
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275542&extension=ts&play_token=wJj7HVobSQ
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU",AMAZON 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275541&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU",AMAZON 4
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275540&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU",AMAZON 5
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275539&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="INDISTORE MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU",AMAZON 6
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275538&extension=ts&play_token=F5Xi40dhPi
