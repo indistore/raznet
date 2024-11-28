@@ -6,7 +6,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE 11-12-2024 SCTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO
 https://www.googleapis.com/drive/v3/files/19cw1gbQD3kW2TTqzk1spWo8m5x_-x8pv?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
  
  
@@ -203,30 +203,30 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/197972.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🔴HBO PREMIUM", HBO Hits 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/196480.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="🔴HBO PREMIUM", HBO Family 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/197055.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="🔴HBO PREMIUM", HBO Signature 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/221948.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🔴HBO PREMIUM", Cinemax 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/197964.ts
 
 
 
