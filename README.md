@@ -229,9 +229,11 @@ http://opplex.tv:8080/live/1525939/1552699/350958.ts
 http://opplex.tv:8080/live/1525939/1552699/350922.ts
 
 
-#EXTINF:0 group-title="🔴HBO PREMIUM" tvg-logo="https://bit.ly/3jPj9HC",Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/993/49993-SNAPSHOT-l.png" group-title="🔴HBO PREMIUM",Rock Action
+https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 <======================== Premium Movies ==========================>
 
@@ -572,9 +574,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mp
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:0 group-title="🔴PREMIUM MOVIE" tvg-logo="https://bit.ly/3jPj9HC",Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
+
 
 #EXTINF:0 group-title="🔴PREMIUM MOVIE" tvg-logo="https://bit.ly/3GDKsO7",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1001,6 +1001,92 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd|refere
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd|referer=https://www.visionplus.id/
+
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEINSPORTS", beIN SPORTS 1HD
+http://opplex.tv:8080/live/1525939/1552699/348201.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEINSPORTS", beIN SPORTS 1 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897626.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg" group-title="BEINSPORTS", beIN SPORTS 1 HD
+http://opplex.tv:8080/live/1525939/1552699/348202.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg" group-title="BEINSPORTS", beIN SPORTS 2 HD
+http://opplex.tv:8080/live/1525939/1552699/348203.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Beinsports2hd.jpg" group-title="BEINSPORTS", beIN SPORTS 2 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897627.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEINSPORTS", beIN SPORTS 3 HD
+http://opplex.tv:8080/live/1525939/1552699/348204.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEINSPORTS", beIN SPORTS 3 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897628.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/BEIN-Sport-3-ID_o.jpg" group-title="BEINSPORTS", beIN SPORTS 3 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/968404.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png" group-title="BEINSPORTS",beIN SPORTS 4 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897629.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="BEINSPORTS",beIN SPORTS 5 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897630.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="BEINSPORTS",beIN SPORTS 6 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897631.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="BEINSPORTS",beIN SPORTS 6 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/968407.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" group-title="BEINSPORTS",beIN SPORTS 7 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897632.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" group-title="BEINSPORTS",beIN SPORTS 8 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897633.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="BEINSPORTS",beIN SPORTS 9 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897634.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqVgxynipt3QL0ipdnJstyR5ZA_KuQXO3Xw&usqp=CAU" group-title="BEINSPORTS",beIN SPORTS XTRA 1 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/968414.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqVgxynipt3QL0ipdnJstyR5ZA_KuQXO3Xw&usqp=CAU" group-title="BEINSPORTS",beIN SPORTS XTRA 2 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/968415.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPqVgxynipt3QL0ipdnJstyR5ZA_KuQXO3Xw&usqp=CAU" group-title="BEINSPORTS",beIN SPORTS XTRA 3 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/968416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4nuMLGwkxOpgbwu-rjoNhPaZk1Dzf5ltaQ&usqp=CAU" group-title="BEINSPORTS",beIN SPORTS 13 HD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/968413.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYu3HtR99SETKWIldetli-8kdA33UlZJ8vIXUgMdtXqEBRKIwIX34p-rz&s=10" group-title="BEINSPORTS",beIN SPORTS UHD
+http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/897568.ts
+
+#EXTINF:-1 tvg-name="uefa ▎bein sports 1 hd [ar]" tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title=" BEINSPORTS",BEINSPORTS 1 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
+#EXTINF:-1 tvg-name="uefa ▎bein sports 2 hd [ar]" tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title=" BEINSPORTS",BEINSPORTS 2 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
+#EXTINF:-1 tvg-name="uefa ▎bein sports 3 hd [ar]" tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title=" BEINSPORTS",BEINSPORTS 3 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461009
+#EXTINF:-1 tvg-name="uefa ▎bein sports 4 hd [ar]" tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title=" BEINSPORTS",BEINSPORTS 4 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462095
+#EXTINF:-1 tvg-name="uefa ▎bein sports 5 hd [ar]" tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title=" BEINSPORTS",BEINSPORTS 5 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462096
+#EXTINF:-1 tvg-name="uefa ▎bein sports 6 hd [ar]" tvg-logo="https://img.logo-cdn.cc/championsleague.png" group-title=" BEINSPORTS",BEINSPORTS 6 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462097
+#EXTINF:-1 tvg-name="ar ▎ bein sports 7 hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 7 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897667
+#EXTINF:-1 tvg-name="ar ▎ bein sports 8 hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 8 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897668
+#EXTINF:-1 tvg-name="ar ▎ bein sports 9 hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 9 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897669
+#EXTINF:-1 tvg-name="ar ▎ bein sports 1 xtra hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 1 XTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897670
+#EXTINF:-1 tvg-name="ar ▎ bein sports 2 xtra hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 2 XTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897671
+#EXTINF:-1 tvg-name="ar ▎ bein sports 3 xtra hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 3 XTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897672
+#EXTINF:-1 tvg-name="ar ▎ bein sports 1 english hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 1 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897673
+#EXTINF:-1 tvg-name="ar ▎ bein sports 2 english hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 2 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897674
+#EXTINF:-1 tvg-name="ar ▎ bein sports 1 french hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 1 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897675
+#EXTINF:-1 tvg-name="ar ▎ bein sports 2 french hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 2 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897676
+#EXTINF:-1 tvg-name="ar ▎ bein sports 3 french hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS 3 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897677
+#EXTINF:-1 tvg-name="ar ▎ bein sports news sd s3" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897749
+#EXTINF:-1 tvg-name="ar ▎ bein sports global sd s3" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS GLOBAL
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897748
+#EXTINF:-1 tvg-name="ar ▎ bein sports nba sd s3" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title=" BEINSPORTS",BEINSPORTS NBA
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897750
+
+
 
 #EXTINF:-1 tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_70X40.png" group-title="🔴PREMIUM SPORT", beIN Sports 3 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
