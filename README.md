@@ -6,7 +6,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn4.mbahnunungonline.net/img/jqNYjGu.pnddg?v=1.0.0.1" group-title="INFO",UPDATE HBO & KNOWLEDGEE
 https://www.googleapis.com/drive/v3/files/19cw1gbQD3kW2TTqzk1spWo8m5x_-x8pv?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
  
  
@@ -199,47 +199,20 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 <===================================== HBO Maxstream ================================>
 
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="🔴HBO PREMIUM",HBO
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="🔴HBO PREMIUM",HBO Hits
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="🔴HBO PREMIUM",HBO Family Asia
-EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="🔴HBO PREMIUM",HBO Signature
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="🔴HBO PREMIUM",CINEMAX HD
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-logo="https://iili.io/Jmo9Eg4.png" group-title="🔴HBO PREMIUM",HBO
+http://xtvplayer.top:8080/live/Imranshahg/123450/350955.ts
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-logo="https://iili.io/Jmo90qG.png" group-title="🔴HBO PREMIUM",HBO Hits
+http://xtvplayer.top:8080/live/Imranshahg/123450/350957.ts
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://iili.io/Jmo9css.png" group-title="🔴HBO PREMIUM",HBO Family
+http://xtvplayer.top:8080/live/Imranshahg/123450/350956.ts
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://iili.io/Jmo911f.png" group-title="🔴HBO PREMIUM",HBO Signature
+http://xtvplayer.top:8080/live/Imranshahg/123450/350958.ts
+#EXTINF:-1 tvg-id="HBO Extreme (HD).sg" tvg-url="" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="🔴HBO PREMIUM",HBO Extreme
+http://479525498879494298.ofdhu1210.xyz:80/live/te531864/7rqCnxuPYM/999181.ts
+#EXTINF:-1 tvg-id="HBO plus (HD).sg" tvg-logo="https://iili.io/Jmo911f.png" group-title="🔴HBO PREMIUM",HBO plus
+http://xtvplayer.top:8080/live/Imranshahg/123450/351870.ts
+#EXTINF:-1 tvg-id="CINEMAX HD.sg" tvg-logo="https://iili.io/Jmo95bt.png" group-title="🔴HBO PREMIUM",Cinemax
+http://xtvplayer.top:8080/live/Imranshahg/123450/350922.ts
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -249,6 +222,30 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 <======================== Premium Movies ==========================>
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://iili.io/Jmo21Z7.png" group-title="Premium Movies",Action hollywood
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+#EXTINF:-1 tvg-id="Action Max" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDC_0SfAa5TkEMib6czNOlHyLnaN26P0sKJ1m5s9jZoJ4Dw5eCJ0ts2Q&s=10" group-title="Premium Movies",Action Max
+http://defaultgen.com:3050/live/Enriqueguedez/Xz82H2i7MU/418104.ts
+
+#EXTINF:-1 tvg-id="BBC America" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3QyaeVLPMXtzqSRDdzH3S2YAOUHXZXNC-Q&s" group-title="Premium Movies",BBC America
+http://defaultgen.com:3050/live/Enriqueguedez/Xz82H2i7MU/417877.ts
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="KIX" tvg-url="" tvg-logo="https://corporate.hallmark.com/wp-content/uploads/2018/11/Hallmark-Movies-Mysteries-Logo-300x300.jpg",Hallmark movies
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/418091.ts
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-jhFX1Y-ZjAh0C0FLDekh8fRAkbhTDpz8Q&usqp=CAU",IQIYI
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/605320.ts
+
+#EXTINF:-1 tvg-id="Starz east" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJ_NbuB4zAzVKbG2z-EbyhAbAx8SWuRx6P8IHqc0yZK-nSAepAuWEupU&s=10" group-title="Premium Movies",Starz east
+http://107735698407494298.ofd1206.xyz:80/live/te531864/7rqCnxuPYM/988195.ts
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://iili.io/JmoHayB.png" group-title="Premium Movies",Zee Cinema
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605271.ts
+
+
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -425,59 +422,165 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 
 
-                ============DISCOVERY CHANNEL=====
-
-
-
-#EXTINF:-1 group-title="🔴DISCOVERY" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-
-#EXTINF:-1 group-title="🔴DISCOVERY" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bbceart.png",BBC Earth
-#EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://keralamaxtv.com/sliv/stream.php?id=852&=.m3u8
-
-#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="🔴DISCOVERY", CRIME INVESTIGATION
+  #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTINF:-1 tvg-id="History" tvg-url="" tvg-logo="https://iili.io/JmoCPqB.png" group-title="Knowledge & Documentary",History
+http://opplex.tv:8080/live/tasin7879/tasin7880/350961.ts
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="🔴DISCOVERY", CURIOSITY CHANNEL
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-
-#EXTINF:-1 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="🔴DISCOVERY",Discovery Asia
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dcch.png" group-title="IPTV",Discovery Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
-#EXTINF:-1 group-title="🔴DISCOVERY" tvg-id="Discovery HD World"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png", DISCOVERY HD
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
-#EXTINF:-1 group-title="🔴DISCOVERY" tvg-id="Discovery Science"  tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png", DISCOVERY SCIENCE
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-
-#EXTINF:-1 group-title="🔴DISCOVERY" tvg-id="[London SD] DMAX"  tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png", DMAX
-https://varun-iptv.netlify.app/m3u/DMAX.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JpiQj8x.jpg" group-title="🔴DISCOVERY", LOVE NATURE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoCwfS.png" group-title="Knowledge & Documentary",BBC Earth
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://iili.io/JpsF6u9.png" group-title="🔴DISCOVERY", NATGEO
+
+#EXTINF:-1 tvg-id="NASA TV MEDIA HD - [Channel 461].id" tvg-url=""tvg-logo="https://iili.io/JmoCQdF.png" group-title="Knowledge & Documentary",NASA TV MEDIA HD
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="NASA TV PUBLIC HD - [Channel 461].id" tvg-url=""tvg-logo="https://iili.io/JmoCQdF.png" group-title="Knowledge & Documentary",NASA TV PUBLIC HD
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Animal Planet"tvg-logo="https://iili.io/JmoCOg9.png", ANIMAL PLANET
+http://opplex.tv:8080/live/tasin7879/tasin7880/206283.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-family-channel-logo-42D362F245-seeklogo.com.png" group-title="Knowledge & Documentary",Discovery Family
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10387.m3u8
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-channel-discovery-channel-videos-logo-11563508656irnwtaeoly.png" group-title="Knowledge & Documentary",Discovery Channel
+http://opplex.tv:8080/live/tasin7879/tasin7880/109974.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge & Documentary",Discovery science
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10389.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13" group-title="Knowledge & Documentary",Curiosity
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd|referrer=https://www.indihometv.com/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Crime_investigation_network.svg/2560px-Crime_investigation_network.svg.png" group-title="Knowledge & Documentary",Crime & Investigation
+http://opplex.tv:8080/live/tasin7879/tasin7880/350930.ts
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/761/png-transparent-logo-destination-america-brand-television-channel-design-television-text-trademark.png" group-title="Knowledge & Documentary",Destination America
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10386.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jmoc3MX.png" group-title="Knowledge & Documentary",TBN
+http://00001111.dynahost.ovh:80/live/550593543246/312522343908/141077.ts
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="Knowledge & Documentary",A&E
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10357.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoKxjV.png" group-title="Knowledge & Documentary",ABC
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10358.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ABC_Alaska_2022.svg/2560px-ABC_Alaska_2022.svg.png" group-title="Knowledge & Documentary",ABC Alaska
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10359.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jmnpha2.png" group-title="Knowledge & Documentary",AMC
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10361.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="Knowledge & Documentary",AWE Encore
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10364.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/25/af/eb/25afebbe71d5dbe8f4a117403e0ca01c.png" group-title="Knowledge & Documentary",Black Entertainment Television
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10365.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Knowledge & Documentary",American Heroes Channel
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10370.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Axs-tv-button-logo-blue.png" group-title="Knowledge & Documentary",AXS TV
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10371.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoCwfS.png" group-title="Knowledge & Documentary",BBC America
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10372.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TJywqSBbqcRw8p6iHvkZmruQRcn-K4a_1Q&usqp=CAU" group-title="Knowledge & Documentary",BBC Lifestyle
+http://opplex.tv:8080/live/tasin7879/tasin7880/350899.ts
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/941/241/157/tv-channel-icons-pack-cmt-white-png-icon.jpg" group-title="Knowledge & Documentary",Country Music Television
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10377.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/Justice-CentralTV_m.png" group-title="Knowledge & Documentary",Justice Central TV
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10382.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_pandatv_small.png" group-title="Knowledge & Documentary",Panda TV
+https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
+
+#EXTINF:-1 tvg-url="" tvg-id="Discovery world" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Knowledge & Documentary",Discovery World 
+http://xtvplayer.top:8080/live/Imranshahg/123450/352102.ts
+
+#EXTINF:=1 tvg-id="DiscoveryAsia" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://iili.io/JmoC8Ob.png",DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q", "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
+https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="🔴DISCOVERY", REAL WILD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoCsg1.png" group-title="Knowledge & Documentary",Love Nature
+https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-CEslXmFfwiL1kdkxlXxdlvjQm_lPqQIU--z82_7fY8ksX4t-R2eD7Q&s=10" group-title="Knowledge & Documentary",Nature Vision
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Tech Storm" tvg-logo="https://iili.io/JmoCN07.png" group-title="Knowledge & Documentary",Tech Storm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8?c
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoCrWQ.png" group-title="Knowledge & Documentary",Global Trekker
+https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoChs2.png",CGTN Documentary
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge & Documentary",Dens Learning & Knowledge
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6961737.jpg" group-title="Knowledge & Documentary",National Geographic
+http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",National Geographic Wild
+http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
+
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://iili.io/d9HE0l9.png" group-title="Knowledge & Documentary",DMAX TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
+http://80614432523409232.ofded12.xyz:80/live/fe122217/cJaaprKfxhwa/1001569.ts
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/3336/brand.gif?itok=qou1UWIb" group-title="Knowledge & Documentary",MEKKAH HD
+http://80614432523409232.ofded12.xyz:80/live/fe122217/cJaaprKfxhwa/1004943.ts
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Knowledge & Documentary",Smithsonian Channel
+http://opplex.tv:8080/live/tasin7879/tasin7880/351032.ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/JZICdD7.png" group-title="Knowledge & Documentary",Lifetime
+http://tkosportz.live:25461/live/edaniels2023/6066225419/10422.m3u8
 
                ===========MOVE PREMIUM=======
 
