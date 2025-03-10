@@ -219,7 +219,9 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="🔴HBO PREMIUM",CINEMAX HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/DZqjznfyyn/3Q9O2vucT6/2156
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
