@@ -5,7 +5,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/indistorelogo/WA/main/image.png" group-title="INFO",SEDANG MAINTENANCE ADA BEBRAPA CHANNEL ERROR
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/indistorelogo/WA/main/image.png" group-title="INFO",MASIH DALAM PERBAIKAN
 https://www.googleapis.com/drive/v3/files/19cw1gbQD3kW2TTqzk1spWo8m5x_-x8pv?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -36,11 +36,11 @@ https://www.googleapis.com/drive/v3/files/19cw1gbQD3kW2TTqzk1spWo8m5x_-x8pv?alt=
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="livebolla",RCTI HD
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="livebolla" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI n
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 
 #EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" group-title="livebolla", SPORTSTARS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -99,14 +99,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 ======================================================================================================LOCAL INDONESIA ===========================================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU" group-title="LOKAL INDONESIA",RCTI
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
+
+
+
+#EXTINF:-1 group-title="LOKAL INDONESIA" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI n
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 
 
 
@@ -140,7 +141,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
-
+#EXTINF:-1 tvg-id="LOKAL INDONESIA tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="RCTI+",Trans TV TRANSMEDIA
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -245,7 +247,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="LOKAL INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
+#EXTINF:-1 group-title="LOKAL INDONESIA" tvg-logo="https://www.transtv.co.id/livetv/anytv/RTV_live_streaming_tv.jpg",RTV
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 
@@ -506,10 +508,13 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
                ===========MOVE PREMIUM=======
 
 
+
+
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="galaxy.id" tvg-logo="https://i.imgur.com/PdohVJI.png",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
 
 
@@ -517,21 +522,10 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 
 
-
-
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://i.imgur.com/FbqpsDe.png",GALAXY PREMIUM[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
-
-
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://i.imgur.com/PdohVJI.png",GALAXY[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="axnindonesia.id" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png",AXN
@@ -605,14 +599,21 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd
 
 
 
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="tvnasia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd
 
 
+#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="tvnmoviesasia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="FMX",TvN movies HD
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="🔴PREMIUM MOVIE",TvN movies HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
@@ -627,7 +628,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 
-#EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="Premium Movies",Hits
+#EXTINF:-1 tvg-id="HITS" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.visionplus.id/images/repository/002/50002-SNAPSHOT-l.png" group-title="🔴PREMIUM MOVIE"",Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
@@ -738,13 +739,11 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/In
 
 
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/zee.png" group-title="🔴PREMIUM MOVIE", ZEE BIOSKOP
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="zeebioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://iili.io/Jmo21Z7.png" group-title="🔴PREMIUM MOVIE",Action hollywood
@@ -763,11 +762,11 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8|user-agent=Mozil
 
 
 
-#EXTINF:-1 group-title="Korean Channels"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
-
+#EXTINF:-1 group-title="Korean Channels" tvg-id="tvnasia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd
 
 
 
@@ -1579,6 +1578,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/spotv.png" group-title="🔴PREMIUM SPORT",SPOTV backup
